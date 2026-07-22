@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "src": "/images/hero.webp",
+    "fallback": "/images/hero.jpg",
+    "width": 1240,
+    "height": 1550,
+    "blurDataURL": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAACwBQCdASoUABkAPu1qrVCppaQiqAqpMB2JYgCdMyIGcgxcAOB/+JQeIz3i/vDYMeGAJBYBaAAA+etyzj12T7N6Q78NQiAKyyvga4gib2mRy0RdYGtz5kkfEoNudB7cRyND0Acj/PnCGMfaJUfgGBPHc7FLgNNr/76CDoXlaqFpc8bRpe07O2JfP+r1XY8oeyzdGcBCtM0uubUOfVZOP4hN7Py2St0bb2UZTXRMGOUE1y3SApeh+NVk/g8gP1p1alkrf7CiCzil+SaBaRGxroLAAAA="
+  },
+  "sobre": {
+    "src": "/images/sobre.webp",
+    "fallback": "/images/sobre.jpg",
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBQCdASoUABkAPu1qr1CppaQiqAqpMB2JaAC7IP8BRDo9baWmXJ0RrYq71MdKI2CA4X4VAAD3JkNM97RQWwslSGz++CeSUagdYWhLXg0mpHX8dr2lpD+2i/nO8WrBP8YoUbtNddubbddnHUHCvUFeGgizYk308Tcvb5XJAqwB8k+I95vUUH2NT0O3og59B0YYZYYmG2Ry9HdT09azZrO/uYoztFXDaGIV+5d1y/N7lu1xfp7NTKEtOiaUroYEv/6fICKk86ZZSu/4qTSceNFZcVmRPG4PxRO4ImkSR8kAAA=="
+  },
+  "ciencia-livro": {
+    "src": "/images/ciencia-livro.webp",
+    "fallback": "/images/ciencia-livro.jpg",
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABQBQCdASoUABkAPu1sq1EppaOiqAqpMB2JbAC06Azw2d24+eJh8LxcP/yelB6/qhj4bgAAzhNh2Wzb6jBKh3wKuIWwcdHiMNBUyskKxlGx6mQlDG/TuIGE+BZujgpMrotjA/vl+nRZ8pXSlE+Rm8sInBBbmQOPxvAzDcb/FfZRoHvtqJAPEmsCBmVB3YjgVFt2iNOt8BwpLQt8gRGss7HTVVqBw9bmxgqpawdiDe+oM1L46K0ulOf1UHBi6uoAIsqt2OdqAAA="
+  },
+  "og": {
+    "src": "/images/og.webp",
+    "fallback": "/images/og.jpg",
+    "width": 1200,
+    "height": 630,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoUAAsAPu1iqU2ppaOiMAgBMB2JYgCdMoR3ABh6MEdPDnJ/+AAA/SHrlci1jQr6l2ABdIdUMeTga/uKceErYKg7+O87zaq1WEHEvtjMab5iUK3NSgvyMTTPZhxJ6vT5tosa/v3V7o3na5AA"
+  }
+}
